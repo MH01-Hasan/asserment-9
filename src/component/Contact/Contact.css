@@ -1,0 +1,16 @@
+.tabel{
+    border: 1px solid gray;
+    border-radius: 10px;
+}
+
+.btn-batun{
+   
+    padding: 10px;
+    margin: 10px;
+    background-color: indianred;
+    border-radius: 10px;
+}
+.contact{
+    color: indigo;
+    font-family: none;
+}

@@ -1,0 +1,20 @@
+.error-style{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.error-style img{
+    width: 742px;
+    height: 348px;
+}
+
+.opps{
+    margin-bottom: 50px;
+    margin-top: 32px;
+    font-size: 50px;
+    font-family: revert;
+    color: #5c3cc5;
+
+}
+

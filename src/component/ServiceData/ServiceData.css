@@ -1,0 +1,19 @@
+.service{
+    border: 1px solid gray;
+    border-radius: 15px;
+    background-color: #C0EFF0;
+}
+.service img{
+    width: 387px;
+    height: 276px;
+    border-radius: 10px;
+
+}
+
+.icon{
+    text-align: center;
+    color: #1f221f;
+    margin: 13px;
+    font-size: 24px;
+    font-family: math;
+}
